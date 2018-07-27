@@ -1,0 +1,9 @@
+F:\LB1\LB1_4\bin\Debug\LB1_4.exe.config
+F:\LB1\LB1_4\bin\Debug\LB1_4.exe
+F:\LB1\LB1_4\bin\Debug\LB1_4.pdb
+F:\LB1\LB1_4\obj\Debug\LB1_4.csprojResolveAssemblyReference.cache
+F:\LB1\LB1_4\obj\Debug\LB1_4.exe
+F:\LB1\LB1_4\obj\Debug\LB1_4.pdb
+F:\LB C#\LB1\LB1_4\bin\Debug\LB1_4.exe.config
+F:\LB C#\LB1\LB1_4\obj\Debug\LB1_4.exe
+F:\LB C#\LB1\LB1_4\obj\Debug\LB1_4.pdb

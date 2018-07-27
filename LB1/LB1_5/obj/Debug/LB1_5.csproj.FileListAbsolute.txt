@@ -1,0 +1,6 @@
+F:\LB C#\LB1\LB1_5\bin\Debug\LB1_5.exe.config
+F:\LB C#\LB1\LB1_5\bin\Debug\LB1_5.exe
+F:\LB C#\LB1\LB1_5\bin\Debug\LB1_5.pdb
+F:\LB C#\LB1\LB1_5\obj\Debug\LB1_5.csprojResolveAssemblyReference.cache
+F:\LB C#\LB1\LB1_5\obj\Debug\LB1_5.exe
+F:\LB C#\LB1\LB1_5\obj\Debug\LB1_5.pdb
